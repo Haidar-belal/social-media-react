@@ -1,0 +1,6 @@
+export { default as Feed } from './Feed' 
+export { default as Rigthbar } from './Rigthbar' 
+export { default as Saidbar } from './Saidbar' 
+export { default as Navbar } from './Navbar' 
+export { default as Posts } from './Posts' 
+export { default as Add } from './Add' 

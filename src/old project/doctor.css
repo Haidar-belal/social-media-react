@@ -1,0 +1,64 @@
+.doctor-selection {
+    margin-top: 20px;
+  }
+  
+  .doctor-selection h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .doctor-selection ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .doctor-selection li {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .doctor-selection li:hover {
+    background-color: #e2e2e2;
+  }
+  
+  .doctor-selection .doctor-info h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .doctor-selection .doctor-info p {
+    margin: 0;
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .doctor-selection .doctor-rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .doctor-selection .doctor-rating p {
+    margin: 0;
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .doctor-selection .doctor-rating .rating-number {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    margin-left: 5px;
+    color: #ff9800;
+  }
+  
